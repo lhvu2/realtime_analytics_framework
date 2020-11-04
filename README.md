@@ -1,4 +1,4 @@
-# realtime_analytics_framework
+# Real-time Analytics Framework
 
 Healthcare represents one of the most attractive application domains for the Internet of Things (IoT). Building real-time IoT systems for healthcare monitoring applications such as re- mote healthcare monitoring, fitness programs, chronic disease management, elderly care, blood glucose monitoring, and diabetes monitoring has recently emerged. Nevertheless, the realization and deployment of reliable systems that can provide end-to-end, reliable solutions for real-time healthcare monitoring at large-scale remain challenging.
 
